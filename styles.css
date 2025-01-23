@@ -449,8 +449,9 @@ a {
     margin-right: 10px;
     color: rgb(19, 19, 19);
 }
-.get-quote-tagline {
+.get-quote-tagline p {
     font-size: 19px;
+    color: rgb(20, 20, 20)
 }
 #download-document-link-quote-page {
     background-color: rgb(0, 100, 100);
